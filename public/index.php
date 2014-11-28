@@ -25,7 +25,7 @@
                     array(
                         'Title' => '大转盘活动正在进行中...',
                         'Description' => '点击\'阅读全文\'前去抽奖',
-                        'PicUrl' => '',
+                        'PicUrl' => 'http://api.wanggang.cc/images/pan.jpg',
                         'Url' => '/pan.php?from='. $weObj->getRevFrom(),
                         ),
                 );
